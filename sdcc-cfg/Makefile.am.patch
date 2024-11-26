@@ -1,0 +1,13 @@
+diff --git a/Makefile.am b/Makefile.am
+index 92a3bd4..9503bce 100644
+--- a/Makefile.am
++++ b/Makefile.am
+@@ -33,7 +33,7 @@ pytdlib_dir = tdlib
+ endif
+ endif
+ 
+-SUBDIRS = tests $(treedec_dir) examples $(pytdlib_dir) src
++SUBDIRS = tests $(treedec_dir) src
+ 
+ 
+ EXTRA_DIST = \

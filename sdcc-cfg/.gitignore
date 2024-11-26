@@ -1,0 +1,14 @@
+bin/*
+device/*
+support/*
+sim/*
+sdas/*
+debugger/*
+Makefile
+*.o
+*.dep
+*.a
+*.rul
+*.depcc
+*.depcxx
+sdcc
